@@ -1,7 +1,7 @@
 .app {
   height: 100vh;
   width: 100vw;
-  background-color: rgb(168, 173, 182);
+  background-color: rgb(112, 112, 131);
   display: grid;
   place-items: center;
 }
@@ -12,7 +12,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: rgb(232, 234, 237);
+  background-color: rgb(169, 181, 196);
   border-radius: 12px;
   padding: 32px 0;
 }
